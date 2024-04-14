@@ -4,7 +4,9 @@ It finds the minimum path for a knight in chess to move from any point to any ot
 
 ## Stack
 Ruby 
-## Running
-ruby traversal.rb
+## Instructions
+1) Clone the repo
+2) use the command ruby game.rb 
+
 ## ToDo
 - [ ] Clean the code
